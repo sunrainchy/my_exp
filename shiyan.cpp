@@ -3,6 +3,8 @@
 #include <stdio.h>
 #include <iostream>
 #include <list>
+#include <map>
+#include <vector>
 using namespace std;
 template <typename T1,typename T> void PRINT(T1 &co,T &value){
 	typename T::iterator it;
